@@ -1,8 +1,11 @@
 # Android Music Player App
 
-This Android app serves as a simple music player that allows users to play audio tracks. It provides basic functionalities like play, pause, next, and previous for the audio tracks. This repository contains the source code for the Android Music Player App.
+This Android app serves as a simple music player that enables users to access and manage their stored audio files directly from their device’s external storage. This app involves implementing efficient data retrieval from external storage and delivering smooth playback functionality, providing a user-friendly experience for music enthusiasts looking to manage their audio files in one convenient app.
+
+It provides basic functionalities like play, pause, next, and previous for the audio tracks. This repository contains the source code for the Android Music Player App.
 
 ## Key Features
+- Retrieve data(audio files) from device External Storage and display the audios/musics on the app.
 - Play audio tracks.
 - Pause and resume playback.
 - Navigate between songs using next and previous buttons.
@@ -24,9 +27,3 @@ This Android app serves as a simple music player that allows users to play audio
 3. Use the seek bar to control the playback progress.
 4. Navigate to the next or previous songs using the respective buttons.
 5. Enjoy your music!
-
-Please note that this is a basic music player app and does not include advanced features like playlists, equalizers, or music library management.
-
-Feel free to customize and enhance the app according to your needs.
-
-**Happy listening!**
